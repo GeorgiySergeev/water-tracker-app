@@ -1,85 +1,40 @@
 # Water Tracker
 
-Water Tracker - це застосунок для моніторінга споживаної води. Розроблений для
-легкого відстеження кількості випитої води та встановлення особистих цілей для
-підтримки здоров'я. Water Tracker має зручний та адаптивний інтерфейс, який
-спрощує відслідковування кількості випитої води без зайвих зусиль.
+Water Tracker -  stay hydrated and feel your best with HydrateMe, the ultimate
+water tracking app designed to help you meet your daily hydration goals. 
+Whether you're an athlete, a busy professional, or just someone looking to improve
+their health, HydrateMe makes it easy to keep track of your water
+intake and stay on top of your hydration needs.
+
+Key Features:
 
 ![Water Tracker](public/printable-water-tracker-for-week-or-month-water-tracker-balance-calendar-printable-a4-template-7-days-of-hydration-challenge-drinking-enough-water-concept-free-ve.jpg)
 
-## Основні можливості користувача:
 
-- **Налаштування профілю:** додавання або зміна особистих даних та фотографії.
-- **Обчислення денної норми вживання води:** за допомогою вбудованої формули або
-  встановлення власної норми.
-- **Редагування денної норми вживання води.**
-- **Додавання, редагування та видалення кількості випитої води за день.**
-- **Відстеження прогресу за графіком відсотків випитої води за день та місяць.**
+Customizable Goals: Set your daily water intake goal based on your weight, activity level, and personal preferences. HydrateMe will help you stay on track with reminders and notifications.
 
-## Використані технології:
+Intuitive Interface: A clean and user-friendly interface makes it simple to log your water intake throughout the day. Add a glass, a bottle, or a specific amount with just a few taps.
 
-### Front-End:
+Reminders and Notifications: Set reminders to drink water at regular intervals. Get notified when it's time to hydrate, so you never forget a sip.
 
-- React
-- Redux Toolkit
-- Redux Persist
-- Axios
-- HTML/CSS
-- Formik
+Progress Tracking: View your hydration progress over time with detailed charts and graphs. See how much water you've consumed and how close you are to reaching your daily goal.
 
-### Back-End:
+Integration with Health Apps: Sync HydrateMe with popular health and fitness apps to get a comprehensive view of your overall wellness.
 
-- Node.js
-- Express
-- MongoDB
-- Mongoose
-- Swagger
-- Joi
-- Nodemailer
+Motivational Quotes and Tips: Stay inspired with daily motivational quotes and hydration tips. Learn about the benefits of staying hydrated and how it can improve your health and well-being.
 
-### Інші інструменти:
+Community Support: Join a community of users who are also committed to staying hydrated. Share tips, challenges, and successes to keep each other motivated.
 
-- Google OAuth
+Why Choose HydrateMe?
 
-## Встановлення та налаштування проекту:
+Personalized Experience: HydrateMe adapts to your needs, providing a personalized hydration plan that fits your lifestyle.
+User-Friendly: Designed with simplicity in mind, making it easy for anyone to use.
+Comprehensive Features: From goal setting to progress tracking, HydrateMe has everything you need to stay hydrated.
+Community and Support: Connect with others who are on the same journey, and get the support you need to succeed.
+Download HydrateMe today and take the first step towards a healthier, more hydrated you!
 
-1. **Встановлення залежностей:** Виконайте команду `npm install` для
-   встановлення всіх необхідних залежностей.
-2. **Клонування репозиторію:** Склонуйте репозиторій з проектом на ваш
-   комп'ютер.
-3. **Встановлення залежностей проекту:** Виконайте команду `npm install` у
-   кореневій директорії проекту.
-4. **Налаштування середовища:** Створіть файл `.env` в кореневій директорії
-   проекту та заповніть його необхідними змінними середовища (див.
-   `.env.example`).
-5. **Запуск проекту:** Після встановлення залежностей та налаштування
-   середовища, запустіть проект за допомогою команди `npm run dev`.
 
-## Команда розробників:
 
-### Front-End:
 
-- **Володимир** ([GitHub](https://github.com/bendelvolodymyr)): Team lead,
-  оформлення темної і світлої теми, футер і глобальна модалка.
-- **Наталія** ([GitHub](https://github.com/NataFilina)): Scrum master, сторінка
-  Welcome, Loader.
-- **Оксана** ([GitHub](https://github.com/OksanaLesjuk)): історія споживання
-  води, календар, спливаюче вікно з загальною інформацією та статистикою.
-- **Тетяна** ([GitHub](https://github.com/Tania66)): реєстрація, логінізація
-  користувача.
-- **Кирило** ([GitHub](https://github.com/kyrylomatkash)): модальне вікно з
-  налаштуваннями інформації про користувача.
-- **Олексій** ([GitHub](https://github.com/irokez34)): компонент з денною нормою
-  води, модалка для розрахунку денної норми споживання води, шкала з відношенням
-  випитої води за день.
-- **Георгій** ([GitHub](https://github.com/GeorgiySergeev)): хедер, налаштування
-  Redux.
 
-### Back-End:
 
-- **Юлія** ([GitHub](https://github.com/turasova)): розрахунок денної норми
-  споживання води.
-- **Тимур** ([GitHub](https://github.com/AQR88)): автентифікація користувача.
-- **Дар’я** ([GitHub](https://github.com/KorolenkoDaria)): додавання,
-  редагування та видалення води, інформація по спожитій воді, відновлення
-  пароля.
