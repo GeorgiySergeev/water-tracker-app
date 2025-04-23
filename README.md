@@ -8,7 +8,7 @@ intake and stay on top of your hydration needs.
 
 Key Features:
 
-![Water Tracker](public/printable-water-tracker-for-week-or-month-water-tracker-balance-calendar-printable-a4-template-7-days-of-hydration-challenge-drinking-enough-water-concept-free-ve.jpg)
+![Water Tracker](Frontend/public/printable-water-tracker-for-week-or-month-water-tracker-balance-calendar-printable-a4-template-7-days-of-hydration-challenge-drinking-enough-water-concept-free-ve.jpg)
 
 
 Customizable Goals: Set your daily water intake goal based on your weight, activity level, and personal preferences. HydrateMe will help you stay on track with reminders and notifications.
